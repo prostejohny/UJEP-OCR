@@ -1,0 +1,15 @@
+Zápis z porady projektového týmu
+Projekt Digitalizace archivu
+Datum: 14. října 2026
+Místo: zasedací místnost B2
+Přítomni: Jana Nováková, Petr Svoboda, Lucie Horáková, Martin Dvořák
+Zapsala: Lucie Horáková
+1. Stav digitalizace archivu
+Do konce září bylo naskenováno 4 820 stran z celkových 12 500, což odpovídá 38,6 % plánovaného rozsahu. Kvalita skenů je vyhovující, u přibližně 3 % stran je nutné skenování opakovat kvůli šikmému zarovnání nebo stínům od vazby.
+2. Rozpoznávání textu (OCR)
+Pilotní test na vzorku 200 stran ukázal průměrnou přesnost rozpoznání 97,4 % na úrovni znaků. Nejčastější chyby vznikají u slov s háčky a čárkami, u číslic a u textu menšího než 9 bodů. Tým se dohodl, že všechny skeny budou před rozpoznáním narovnány a převedeny do černobílého obrazu.
+3. Úkoly do příští porady
+1. Petr Svoboda – připravit předzpracování skenů (narovnání, ořez) do 30. 10. 2026.
+2. Lucie Horáková – ověřit export do formátu PDF/A do 6. 11. 2026.
+3. Jana Nováková – schválit rozpočet na další licence do 20. 10. 2026.
+Příští porada se uskuteční 28. října 2026 v 9:30. Dotazy zasílejte na adresu lucie.horakova@priklad.example.
