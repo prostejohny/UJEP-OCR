@@ -1,0 +1,15 @@
+# Balíčky pro lokální spuštění Jupyter notebooku.
+# Systémový Tesseract + český a anglický jazykový model se instalují zvlášť.
+notebook
+ipykernel
+pymupdf
+pdfplumber
+pytesseract
+python-docx
+rapidfuzz
+chardet
+opencv-python-headless
+pandas
+numpy
+matplotlib
+Pillow
